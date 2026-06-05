@@ -1,0 +1,7 @@
+# AccidentID RoadID Severity StartStep DurationSteps BlockRoad(0/1)
+A01 R6_AC Medium 3 8 0
+A02 R4_AD High 5 7 1
+A03 R5_BD Low 6 10 0
+A04 R2_BC High 8 5 1
+A05 R8_ED Medium 10 6 0
+A06 R1_BA High 12 5 1

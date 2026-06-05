@@ -1,0 +1,14 @@
+# VehicleID VehicleType StartIntersection DestinationIntersection
+C01 Car I1 I5
+C02 Car I2 I4
+C03 Car I4 I1
+C04 Car I1 I3
+
+B01 Bus I1 I4
+B02 Bus I5 I2
+
+T01 Truck I3 I1
+T02 Truck I2 I5
+
+E01 Emergency I1 I5
+E02 Emergency I4 I2
