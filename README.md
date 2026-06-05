@@ -19,7 +19,6 @@ The system supports:
 
 ## 2. Project Structure
 
-```text
 Group-Project-2-main/
 ├── main.cpp
 ├── include/
